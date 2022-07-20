@@ -3,4 +3,9 @@ Coucou2
 Coucou3
 Coucou4
 Coucou5
+<<<<<<< HEAD
 Coucou6 Modif locale
+=======
+
+COUCOU10010000000000000000000000
+>>>>>>> ff5bf39805ac291e1d3727f6bb5311d76ea27590
